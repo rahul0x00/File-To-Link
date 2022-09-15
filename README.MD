@@ -3,18 +3,19 @@
   <p align="center">
     𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶...
     <br />
-    <a href="https://telegram.dog/OP_FileToLinkBot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
+    <a href="https://telegram.dog/filestolink69bot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
+  <a href="https://twitter.com/0xdarksaber">
+        <img src="https://img.shields.io/twitter/url?style=social" width="200">
+        
   </p>
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/rahul0x00" title="Follow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -56,31 +57,14 @@ Press the below button to Fast deploy on Heroku
 💥Superfast interface.<br>
 💥Along with the links you also get file information like name,size ,etc.<br>
 💥Updates channel Support.<br>
-💥Mongodb database support for broadcasting.<br>
 💥Password Protection.<br>
 💥User Freindly Interface.<br>
 💥Ping check.<br>
-💥User DC Check.<br>
-💥Real time CPU , RAM , Internet usage. <br>
-💥Custom Domain support. <br>
 💥All unwanted code removed. <br>
-💥A lot more tired of writing check out by deploying it. 
 </details>
 <details>
   <summary><b>Host it on VPS Locally :</b></summary>
-
-
-```py
-git clone https://github.com/adarsh-goel/Filestreambot-pro
-cd Filestreambot-pro
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-python3 -m Adarsh
-```
-
-and to stop the whole bot,
- do <kbd>CTRL</kbd>+<kbd>C</kbd>
+  <h3>Still in progress</h3>
 
 Setting up things
 
@@ -89,9 +73,9 @@ or if you're Locally hosting, create a file named `config.env` in the root direc
 An example of `config.env` file:
 
 ```py
-API_ID=12345
-API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
+API_ID=12345678
+API_HASH=agx672f0428x883f3hglzx69
+BOT_TOKEN=112223344:yourtbottokenhere
 BIN_CHANNEL=-100
 PORT=8080
 FQDN=your_server_ip
@@ -148,18 +132,10 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://i.postimg.cc/gJV7ZJK5/Screenshot-20220811-114359.jpg)
+![image](url)
 
 
 ### Channel Support
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
-### Credits : 
 
-- [Adarsh Goel](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
-- <b>⍣ [ᴀᴀᴅʜɪ](https://GitHub.com/Aadhi000)</b>
-- Everyone In This Journey !
-
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/aadhi.xr/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
