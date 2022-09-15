@@ -62,7 +62,6 @@ Press the below button to Fast deploy on Heroku
 💥Password Protection.<br>
 💥User Freindly Interface.<br>
 💥Ping check.<br>
-💥All unwanted code removed. <br>
 </details>
 <details>
   <summary><b>Host it on VPS Locally :</b></summary>
