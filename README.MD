@@ -9,6 +9,7 @@
   <p align="center">
   <a href="https://twitter.com/0xdarksaber">
         <img src="https://img.shields.io/twitter/url?style=social" width="200">
+        <img src="https://img.shields.io/twitter/follow/0xdarksaber?style=social">
 
  </p>
 *[![Twitter Follow](https://img.shields.io/twitter/follow/0xdarksaber?style=social)](https://twitter.com/0xdarksaber)*
