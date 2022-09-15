@@ -65,7 +65,7 @@ Press the below button to Fast deploy on Heroku
 </details>
 <details>
   <summary><b>Host it on VPS Locally :</b></summary>
-  <h3>Still in progress</h3>
+  <h3>CUrrently not working, will fix it later</h3>
 
 Setting up things
 
