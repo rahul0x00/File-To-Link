@@ -17,7 +17,7 @@
   
 ## About This Bot
 
-<b><a href="https://www.github.com/rahul0x00" title="Follow">Follow Me For Updates</a></b>
+<b><a href="https://github.com/rahul0x00" title="Follow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
